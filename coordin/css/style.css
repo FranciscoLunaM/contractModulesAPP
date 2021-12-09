@@ -1,0 +1,107 @@
+	/*/    estilo del menu       /*/
+	.doble {position: relative;
+	bottom: 13px;
+	padding: 0 6px 0 0;	
+	}
+	.tabcontrato th {
+	background-color: #6c757d;
+	color:#FFF;
+	border-left: 2px solid #FFF;
+	vertical-align: middle !important;
+	text-align: center; 
+	}
+	.tabcontrato td {
+	padding: 0.5rem !important ;
+	vertical-align: middle; 
+	}
+	.bulk_jar td{
+	padding: 0.4rem !important; 
+	vertical-align: middle !important;  
+	font-size:14px !important;
+	}
+	.bulk_jar th {
+	background-color: #6c757d;
+	color: #FFF;
+	border-left: 2px solid #FFF;
+	vertical-align: middle !important;
+	text-align: center;
+	font-size:14px;
+	font-weight:bold; 
+	padding:0.5rem;
+	}
+	.tabarea{
+	width: 50% !important ;
+		
+	}
+.tabarea th {
+	background-color: #6c757d;
+	color:#FFF;
+	border-left: 2px solid #FFF;
+	vertical-align: middle !important;
+	text-align: center; 
+	}
+	.tabarea td {
+	padding: 0.5rem !important ;
+	}
+.text_lead{
+color:#000;		
+}
+	.bulk_light th {
+	background-color: #6c757d;	
+	font-size:11px;
+	border-left: 2px solid #FFF;
+	font-weight:bold; 
+	padding:0.2rem;
+	vertical-align: middle !important;
+	text-align: center;
+	color:#FFF;
+	}
+
+	.bulk_light td {
+	vertical-align: middle !important;
+	text-align: center;
+	font-weight:bold; 
+	font-size:11px;	
+	padding: 0 !important ; 
+	}
+
+	.coortable td {
+	text-align: center; 
+	font-weight: normal; 
+	vertical-align:middle; 	
+	font-size:10px;
+
+	}	
+	.texttopo th {
+	background-color: #6c757d;
+	color:#FFF;
+	border-left: 2px solid #FFF;
+	vertical-align: middle !important;
+	text-align: center; 
+	padding: .4rem;
+	}
+	.texttopo td {
+	padding: 0.35rem !important ;
+	vertical-align: middle; 
+	
+	}
+	.texttopo td{
+	font-size:14px !important;	
+		
+	}
+	
+	@media print{
+		
+		.tabcontrato th {
+	background-color: #6c757d;
+	color:#FFF;
+	border-left: 2px solid #FFF;
+	vertical-align: middle !important;
+	text-align: center; 
+	}
+	.tabcontrato td {
+	padding: 0.5rem !important ;
+	vertical-align: middle; 
+	}	
+		
+	}
